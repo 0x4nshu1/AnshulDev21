@@ -5,6 +5,7 @@
 - 💬 Ask me about Programming and Maths
 - 📫 How to reach me: You can Email me at vai2007gpt@gmail.com
 - 😄 Pronouns: He, I
+- I know C, C++, Python and currently started learning Go
 
 
 ## 🚀 Languages and Tools:
