@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Java
 - 💬 Ask me about Programming and Maths
 - 📫 How to reach me: You can Email me at vai2007gpt@gmail.com
 - 😄 Pronouns: He, I
-- I know C, C++, Python and currently started learning Go
+- I know C, C++, Python and currently started learning Java
 
 
 ## 🚀 Languages and Tools:
