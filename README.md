@@ -38,7 +38,7 @@
   Processor: Intel i3 2nd Generation;<br>
   Graphics Card: ATI Radeon;<br>
   Graphics: Intel HD Graphics 3000;<br>
-  Operating System: Windows 8.1;<br>
+  Operating System: Arcolinux Gnome v22.0.1;<br>
 </p>
 
 
