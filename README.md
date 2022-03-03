@@ -24,7 +24,7 @@
 
 
 
-<font face="Story book">
+<font face="Cooper Black">
 
   <h2>My Laptop Specs: </h2>
 
