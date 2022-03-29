@@ -5,8 +5,9 @@
 - 💬 Ask me about Programming and Maths
 - 📫 How to reach me: You can Email me at vai2007gpt@gmail.com
 - 😄 Pronouns: He, I
-- I know C, C++, Python and a little bit of Java
-
+- I know C, C++ and Python
+- C is my most favourite language.
+- Linux is my favourite. Debian-based systems is my favourite.
 
 ## 🚀 Languages and Tools:
 
@@ -38,7 +39,7 @@
   Processor: Intel i3 2nd Generation;<br>
   Graphics Card: ATI Radeon;<br>
   Graphics: Intel HD Graphics 3000;<br>
-  Operating System: Linux Mint v20.3;<br>
+  Operating System: Windows 10;<br>
 </p>
 
 
