@@ -5,7 +5,7 @@
 - 💬 Ask me about Programming and Maths
 - 📫 How to reach me: You can Email me at vai2007gpt@gmail.com
 - 😄 Pronouns: He, I
-- I know C, C++ and Python
+- I know C and Python
 - C is my most favourite language.
 - Linux is my favourite. Debian-based systems is my favourite.
 
