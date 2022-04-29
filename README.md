@@ -33,7 +33,7 @@
   Processor: Intel i3 2nd Generation;<br>
   Graphics Card: ATI Radeon;<br>
   Graphics: Intel HD Graphics 3000;<br>
-  Operating System: Windows 10;<br>
+  Operating System: Windows 8.1;<br>
 </p>
 
 
