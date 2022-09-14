@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 <!-- - 🌱 I’m currently learning Java -->
@@ -7,7 +6,7 @@
 - 😄 Pronouns: He, I
 - I know C and Python
 - C is my most favourite language.
-- Linux is my favourite. Debian-based systems is my favourite.
+
 
 ## 🚀 Languages and Tools:
 
