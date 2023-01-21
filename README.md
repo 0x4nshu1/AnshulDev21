@@ -32,7 +32,7 @@
   Processor: Intel i3 2nd Generation;<br>
   Graphics Card: ATI Radeon;<br>
   Graphics: Intel HD Graphics 3000;<br>
-  Operating System: Arch Linux;<br>
+  Operating System: Arch Linux(Archcraft);<br>
 </p>
 
 
