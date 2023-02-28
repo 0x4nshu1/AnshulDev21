@@ -4,7 +4,7 @@
 - 💬 Ask me about Programming and Maths
 - 📫 How to reach me: You can Email me at vai2007gpt@gmail.com
 - 😄 Pronouns: He, I
-- I know C and Python
+- I know C, C++ and Python
 - C is my most favourite language.
 
 
@@ -32,7 +32,7 @@
   Processor: Intel i3 2nd Generation;<br>
   Graphics Card: ATI Radeon;<br>
   Graphics: Intel HD Graphics 3000;<br>
-  Operating System: Arch Linux(Archcraft);<br>
+  Operating System: Linux mint xfce;<br>
 </p>
 
 
