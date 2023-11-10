@@ -3,9 +3,9 @@
 <!-- - 🌱 I’m currently learning Java -->
 - 💬 Ask me about Programming and Maths
 - 📫 How to reach me: You can Email me at vai2007gpt@gmail.com
-- 😄 Pronouns: He, I
-- I know C, C++ and Python
-- C is my most favourite language.
+- 😄 Pronouns: He, Him
+- I know C++ and Python
+- Python is my most favourite language.
 
 
 ## 🚀 Languages and Tools:
