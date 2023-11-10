@@ -18,23 +18,6 @@
 
 
 
-<font face="Cooper Black">
-
-  <h2>My Laptop Specs: </h2>
-
-</font>
-
-<p>
-  Hp Laptop <br>
-  BIOS Mode: Legacy;<br>
-  RAM: 4 GB;<br>
-  Storage: 512 GB HDD;<br>
-  Processor: Intel i3 2nd Generation;<br>
-  Graphics Card: ATI Radeon;<br>
-  Graphics: Intel HD Graphics 3000;<br>
-  Operating System: Linux mint xfce;<br>
-</p>
-
 
 
 
